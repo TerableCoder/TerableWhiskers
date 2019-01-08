@@ -1,0 +1,17 @@
+{
+	"files": {
+		"index.js": "34ff60f93c160814e8c86873c185dbbe5838c7b6037c92aa86f2ceb43e8e1147",
+		"module.json": "5ea1021f06e4386b3201c308c11af760d7ef9d04ffb340596d0a4eb3b9322f03",
+		"README.MD": "81db5e52da9f83a6eb8c80a7a4a7eee6c59abd70481538239c11289e651b4202",
+		"S_INVEN_CHANGEDSLOT.1.def": "36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068"
+	},
+	"defs": {
+		"S_LOGIN": 12,
+		"S_RETURN_TO_LOBBY": 1,
+		"C_USE_ITEM": 3,
+		"S_INVEN": 16,
+		"C_EQUIP_ITEM": 2,
+		"C_UNEQUIP_ITEM": 1,
+		"S_INVEN_CHANGEDSLOT": 1
+	}
+}

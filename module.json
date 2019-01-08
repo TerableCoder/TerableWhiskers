@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "name": "TerableWhiskers",
+    "author": "Terablecoder",
+    "homepage": "https://github.com/TerableCoder/TerableWhiskers",
+    "description": "Tells you when you fish without whiskers on",
+    "version": "1",
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/TerableWhiskers/master/"]
+}
