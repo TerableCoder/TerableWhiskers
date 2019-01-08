@@ -1,11 +1,17 @@
 {
 	"files": {
-		"index.js": "b42610bdce75edf8037db4adc5a971ff6f349713512cf842e31dd5170dbb909a",
-		"module.json": "369dbdf9aecff58e5491c62ec1f0c6a1ded4d889b11b158c7440867ad498d60d",
-		"README.MD": "d2630f81192351816262604a11e501f751f9f5503e8b74d6031e2dc8aa3dda33"
+		"index.js": "34ff60f93c160814e8c86873c185dbbe5838c7b6037c92aa86f2ceb43e8e1147",
+		"module.json": "5ea1021f06e4386b3201c308c11af760d7ef9d04ffb340596d0a4eb3b9322f03",
+		"README.MD": "81db5e52da9f83a6eb8c80a7a4a7eee6c59abd70481538239c11289e651b4202",
+		"S_INVEN_CHANGEDSLOT.1.def": "36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068"
 	},
 	"defs": {
-		"S_LOGIN_ACCOUNT_INFO": 1,
-		"C_SELECT_USER": 1
+		"S_LOGIN": 12,
+		"S_RETURN_TO_LOBBY": 1,
+		"C_USE_ITEM": 3,
+		"S_INVEN": 16,
+		"C_EQUIP_ITEM": 2,
+		"C_UNEQUIP_ITEM": 1,
+		"S_INVEN_CHANGEDSLOT": 1
 	}
 }
