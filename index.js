@@ -47,7 +47,7 @@ module.exports = function TerableLogin(mod) {
 		}
 	});
 	
-	mod.hook('S_INVEN', 16, event => {
+	mod.hook('S_INVEN', 17, event => {
 		if(items1First){ items1 = event.items; } // tera usually sends 2 s_inven packets, so store both
 		else { items2 = event.items; }
 		items1First = !items1First;
